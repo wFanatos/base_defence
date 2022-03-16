@@ -6,4 +6,8 @@ ignoreEntity = noone;
 moveSpd = 0;
 enemy = noone;
 dmg = 0;
-hitWall = false;
+hit = false;
+
+follow = noone;
+lastFollowX = 0;
+lastFollowY = 0;
