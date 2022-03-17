@@ -1,7 +1,9 @@
 {
   "resources": [
     {"id":{"name":"wall_collision","path":"scripts/wall_collision/wall_collision.yy",},"order":1,},
+    {"id":{"name":"obj_spawn_point","path":"objects/obj_spawn_point/obj_spawn_point.yy",},"order":1,},
     {"id":{"name":"spr_collision","path":"sprites/spr_collision/spr_collision.yy",},"order":3,},
+    {"id":{"name":"spr_spawn_point","path":"sprites/spr_spawn_point/spr_spawn_point.yy",},"order":6,},
     {"id":{"name":"spr_arrow","path":"sprites/spr_arrow/spr_arrow.yy",},"order":4,},
     {"id":{"name":"obj_camera","path":"objects/obj_camera/obj_camera.yy",},"order":0,},
     {"id":{"name":"obj_enum_manager","path":"objects/obj_enum_manager/obj_enum_manager.yy",},"order":1,},

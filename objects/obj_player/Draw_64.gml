@@ -1,3 +1,3 @@
-/// @desc
+/// @desc Debug
 
-draw_text(10, 20, "Active Objects: " + string(instance_count));
+draw_text(10, 30, "Active Objects: " + string(instance_count));
