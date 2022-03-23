@@ -13,4 +13,4 @@ idleSprites = [spr_player_left, spr_player_right];
 shootKey = mb_left;
 
 // TODO: uncomment to test true random
-randomize();
+//randomize();
