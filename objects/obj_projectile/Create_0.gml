@@ -6,6 +6,7 @@ ignoreEntity = noone;
 moveSpd = 0;
 enemy = noone;
 dmg = 0;
+decay = 0;
 hit = false;
 
 follow = noone;

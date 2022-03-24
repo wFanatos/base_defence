@@ -1,7 +1,7 @@
 /// @desc Collision
 
 if (!hit) {
-	vSpd += 0.075;
+	vSpd += decay;
 	image_angle = point_direction(x, y, x + hSpd, y + vSpd);
 	
 	var inst = instance_place(x + hSpd, y + vSpd, enemy);
